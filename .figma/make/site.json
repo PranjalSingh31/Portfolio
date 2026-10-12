@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your skills and projects with a visually stunning personal portfolio designed for software developers and AI/ML enthusiasts, enhancing professional visibility.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
